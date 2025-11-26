@@ -2,7 +2,7 @@
 
 # Análise de Clientes da Olist
 
-Este projeto é uma análise exploratória do dataset de clientes da Olist, um e-commerce brasileiro.
+Este projeto é uma análise exploratória do dataset de clientes da Olist.
 
 ## 🎯 Objetivo
 
